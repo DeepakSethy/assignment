@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: My Assignment
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dsethy
+Implementation-Vendor-Id: com.myassignment
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/assignment-a
+ pi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
